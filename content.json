@@ -7,6 +7,14 @@
       "body": "You can now listen to all of your favorite episodes, newly released episodes, check out articles about us, written by us and about us, contact anyone from the show directly, and keep up with all of the team's latest projects. Make sure to enable push notifications to get notified of new episodes and new content!"
     }
   ],
-  "articles": [],
+  "articles": [
+    {
+      "id": "to-ai-or-not-2026-07",
+      "title": "To A.I. or Not To A.I.",
+      "author": "Brian Fischler",
+      "date": "July 21, 2026",
+      "body": "As someone who was initially against A.I. — boy, and girl, have I come around.\n\nLet me clarify that statement. I was always pro-A.I. for the tasks that actually help the blind: identifying products, scanning labels, finding a door — that whole \"last ten feet\" problem where GPS proudly gets you to the building and then abandons you on the sidewalk like a bad date. What I was against was A.I. for writing. As a professional comedian of 20 years, with an even longer background in writing, my thinking was pretty simple: who the hell needs A.I. to write for them?\n\nI still rarely let A.I. write for me. But I did use it to knock out a quick LinkedIn post for Laugh For Sight, and I'll admit it — I was pleased with the results. Don't tell anyone.\n\nHere's what truly floored me. In under a year, we've gone from people using A.I. to write their emails to people using A.I. to build entire apps — like the That Real Blind Tech Show app you're reading this in right now.\n\nI knew exactly what I wanted in this app. With Claude, it took me less than an hour to build it. It then took Apple 18 hours to approve it for beta testing. So let the record show: Apple took at least 18 times longer to approve this app than I took to build the thing.\n\nI can't wait to see where we go next. And yes — before you ask — I wrote this one myself."
+    }
+  ],
   "apps": []
 }
